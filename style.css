@@ -1,0 +1,79 @@
+body {
+    background-image: url('Google Logo.jpg');
+    background-repeat: no-repeat;
+    background-position: 500px 250px;
+	
+}
+
+form {
+	margin-left: 560px;
+	margin-top: 350px
+}
+
+#footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	border-top: 1px solid rgba(0, 0, 0, 0.1)
+	
+}
+
+
+#header {
+	
+	background-color: #2d2d2d;
+	width: 100%;
+	height: 35px;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+#header ul {
+	margin-top: 5px;
+	padding-left: 10px;
+}
+
+li {
+	
+	font-size: 13px;
+	padding: 5px 10px 5px 10px;
+	display: inline;
+	list-style-type: none;
+}
+
+#header ul li a {
+	font-weight: bold;
+	color: #BBBBBB;
+	text-decoration: none;
+}
+
+#header ul li a:hover {
+	color: white;
+	text-decoration: none;
+	}
+	
+	
+	
+	
+	
+}
+#signin_button button {
+	background-color: #D14836;
+	border: 1px solid #FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	border-radius: 4px;
+	padding: 7px 16px 8px 16px;
+}
+
+	
+	
+#signin_button {
+	height: 200px;
+	left: 200px;
+	right: 200px;
+	position: center;
